@@ -14,10 +14,8 @@ O conteúdo poderá ser ao vivo, através de palestras no espaço do TC Experien
 
 Caso seja um evento ao vivo, após a finalização o mesmo será disponibilizado na Station.
 
-### Periodicidade
-A ideia é ter uma periodicidade e uma alternância alta entre os palestrantes, para que possamos gerar bastante conteúdo e mantermos o time em sinergia.
+**Tema**
 
-### Tema
 Os temas podem ser de projetos realizados dentro do TC, boas praticas implementadas com sucesso ou até compartilhamento de conhecimento.
 
 **Exemplo:** 
@@ -27,3 +25,6 @@ Os temas podem ser de projetos realizados dentro do TC, boas praticas implementa
 * Como o Matrix funciona;
 * etc;
 
+
+### Periodicidade
+A ideia é ter uma periodicidade e uma alternância alta entre os palestrantes, para que possamos gerar bastante conteúdo e mantermos o time em sinergia.
